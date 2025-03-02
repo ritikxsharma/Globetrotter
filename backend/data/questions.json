@@ -1,0 +1,2642 @@
+[
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "New York",
+            "Beijing",
+            "Rome"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Toronto",
+            "Bangkok",
+            "Istanbul"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Istanbul",
+            "Berlin",
+            "Rio de Janeiro"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Toronto",
+            "Berlin",
+            "Dubai"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Rio de Janeiro",
+            "Cape Town",
+            "Moscow"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Istanbul",
+            "Tokyo",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Bangkok",
+            "Rome",
+            "Rio de Janeiro"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Tokyo",
+            "New York",
+            "Moscow"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Toronto",
+            "Berlin",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Tokyo",
+            "London",
+            "Sydney"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Rome",
+            "Beijing",
+            "London"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Sydney",
+            "Berlin",
+            "London"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Bangkok",
+            "Paris",
+            "Beijing"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Istanbul",
+            "Sydney",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Bangkok",
+            "Dubai",
+            "Moscow"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Rio de Janeiro",
+            "Bangkok",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Moscow",
+            "Cape Town",
+            "Istanbul"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Rio de Janeiro",
+            "Paris",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Moscow",
+            "New York",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Berlin",
+            "Sydney",
+            "Istanbul"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Moscow",
+            "Rome",
+            "Tokyo"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Dubai",
+            "Cape Town",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Rome",
+            "Rio de Janeiro",
+            "Sydney"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Rio de Janeiro",
+            "Sydney",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Beijing",
+            "Sydney",
+            "Berlin"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Toronto",
+            "Sydney",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Toronto",
+            "Tokyo",
+            "Sydney"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Toronto",
+            "London",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Berlin",
+            "Paris",
+            "Rome"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Dubai",
+            "Toronto",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Toronto",
+            "Cape Town",
+            "Istanbul"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Dubai",
+            "Istanbul",
+            "Rome"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "London",
+            "Toronto",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "London",
+            "Dubai",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Dubai",
+            "London",
+            "Rio de Janeiro"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Sydney",
+            "Paris",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Cape Town",
+            "Istanbul",
+            "Moscow"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Beijing",
+            "Toronto",
+            "Dubai"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Sydney",
+            "Moscow",
+            "Paris"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Cape Town",
+            "Tokyo",
+            "Dubai"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Cape Town",
+            "Dubai",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Rome",
+            "New York",
+            "Tokyo"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Toronto",
+            "London",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Beijing",
+            "Rome",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Cape Town",
+            "London",
+            "Istanbul"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Bangkok",
+            "Rio de Janeiro",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Beijing",
+            "London",
+            "Tokyo"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Beijing",
+            "New York",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Dubai",
+            "Cape Town",
+            "Sydney"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Rio de Janeiro",
+            "London",
+            "Beijing"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Beijing",
+            "Paris",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "New York",
+            "Rio de Janeiro",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Tokyo",
+            "Sydney",
+            "Rio de Janeiro"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Moscow",
+            "Beijing",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Paris",
+            "Moscow",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Beijing",
+            "Bangkok",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Istanbul",
+            "Bangkok",
+            "Rio de Janeiro"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Paris",
+            "New York",
+            "Tokyo"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Cape Town",
+            "Tokyo",
+            "Istanbul"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Toronto",
+            "Rome",
+            "Tokyo"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Beijing",
+            "Moscow",
+            "New York"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Bangkok",
+            "Berlin",
+            "Moscow"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Rome",
+            "Paris",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Sydney",
+            "London",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Beijing",
+            "Rio de Janeiro",
+            "Rome"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Istanbul",
+            "Bangkok",
+            "Sydney"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Rome",
+            "New York",
+            "Sydney"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Rome",
+            "Beijing",
+            "Sydney"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Toronto",
+            "Moscow",
+            "New York"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Istanbul",
+            "Bangkok",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Berlin",
+            "Paris",
+            "Dubai"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "New York",
+            "Toronto",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Rome",
+            "Moscow",
+            "Beijing"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Bangkok",
+            "New York",
+            "Dubai"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Moscow",
+            "Berlin",
+            "Rome"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Istanbul",
+            "Dubai",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Cape Town",
+            "Berlin",
+            "Rome"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Moscow",
+            "Tokyo",
+            "Rome"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Dubai",
+            "New York",
+            "Istanbul"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Beijing",
+            "Moscow",
+            "Dubai"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Toronto",
+            "Berlin",
+            "Beijing"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Cape Town",
+            "Beijing",
+            "Rome"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Tokyo",
+            "Moscow",
+            "Sydney"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Rio de Janeiro",
+            "London",
+            "Dubai"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Moscow",
+            "Berlin",
+            "Beijing"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Rome",
+            "New York",
+            "Istanbul"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Berlin",
+            "Dubai",
+            "London"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Beijing",
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Paris",
+            "Sydney",
+            "Tokyo"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "New York",
+            "Moscow",
+            "Rio de Janeiro"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Rome",
+            "Moscow",
+            "Cape Town"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Dubai",
+            "Cape Town",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Sydney",
+            "Cape Town",
+            "Dubai"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Beijing",
+            "Moscow",
+            "Rome"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Moscow",
+            "Dubai",
+            "Berlin"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Moscow",
+            "Cape Town",
+            "Beijing"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Rome",
+            "Berlin",
+            "Beijing"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Berlin",
+            "Bangkok",
+            "Tokyo"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Berlin",
+            "Rome",
+            "Moscow"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Moscow",
+            "Rio de Janeiro",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Sydney",
+            "Moscow",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Bangkok",
+            "Istanbul",
+            "Dubai"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "Berlin",
+            "Rome",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Rome",
+            "Dubai",
+            "Paris"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Moscow",
+            "Beijing",
+            "Berlin"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "Beijing",
+            "New York",
+            "Toronto"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Toronto",
+            "Moscow",
+            "Beijing"
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Known for its stunning harbor and Opera House.",
+            "This city is home to one of the world's most famous beaches, Bondi Beach."
+        ],
+        "fun_fact": [
+            "Sydney Opera House took 14 years to complete.",
+            "Sydney has the world's largest natural harbor."
+        ],
+        "trivia": [
+            "Which bridge is famously known as the 'Coathanger' in Sydney?",
+            "What is the name of the famous beach located in Sydney?"
+        ],
+        "options": [
+            "Sydney",
+            "London",
+            "Rome",
+            "Rio de Janeiro"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Beijing",
+            "Istanbul",
+            "Rome"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Sydney",
+            "Istanbul",
+            "Bangkok"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Paris",
+            "Berlin",
+            "London"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Rome",
+            "London",
+            "Beijing"
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "Known as the 'City of Love' and famous for its artistic heritage.",
+            "Home to one of the most visited monuments, the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Paris has a hidden network of underground tunnels called the Catacombs.",
+            "It is home to the world's largest art museum, the Louvre."
+        ],
+        "trivia": [
+            "Which famous painting is housed in the Louvre Museum?",
+            "What is the name of the river that flows through Paris?"
+        ],
+        "options": [
+            "Paris",
+            "London",
+            "Beijing",
+            "Istanbul"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Rio de Janeiro",
+            "Istanbul",
+            "Sydney"
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Nicknamed 'The Big Apple', this city never sleeps.",
+            "Home to Times Square and the Statue of Liberty."
+        ],
+        "fun_fact": [
+            "New York was originally called New Amsterdam by Dutch settlers.",
+            "It has the largest subway system in the world by number of stations."
+        ],
+        "trivia": [
+            "Which famous park is located in the middle of Manhattan?",
+            "Which iconic landmark welcomes immigrants and tourists alike in New York Harbor?"
+        ],
+        "options": [
+            "New York",
+            "Berlin",
+            "London",
+            "Sydney"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Toronto",
+            "Beijing",
+            "Istanbul"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Berlin",
+            "New York",
+            "Paris"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Rome",
+            "Cape Town",
+            "Berlin"
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "A bustling metropolis known for its technology and traditional culture.",
+            "This city has the busiest pedestrian crossing in the world, Shibuya Crossing."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village named Edo.",
+            "It has the world's tallest tower, the Tokyo Skytree."
+        ],
+        "trivia": [
+            "What is the name of the busiest pedestrian crossing in Tokyo?",
+            "Which famous district in Tokyo is known for its electronics and anime culture?"
+        ],
+        "options": [
+            "Tokyo",
+            "Rio de Janeiro",
+            "Berlin",
+            "Beijing"
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to the famous Big Ben and Buckingham Palace.",
+            "This city hosted the 2012 Olympic Games."
+        ],
+        "fun_fact": [
+            "London has over 170 museums, including the British Museum.",
+            "It is one of the most linguistically diverse cities in the world, with over 300 languages spoken."
+        ],
+        "trivia": [
+            "Which iconic clock tower is located in London?",
+            "Which river runs through the heart of London?"
+        ],
+        "options": [
+            "London",
+            "Moscow",
+            "Paris",
+            "Beijing"
+        ]
+    }
+]
