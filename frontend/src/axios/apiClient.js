@@ -1,18 +1,15 @@
 import axios from "axios";
 
 const apiClient = axios.create({
-  baseURL: `${window.location.origin}/api/` || "http://localhost:5000/api/",
+   baseURL: `${window.location.origin}/api/`
 });
 
 export const getRandomQuestion = async () => {
   try {
     const response = await apiClient.get("/questions/random");
-    console.log(response);
-
     return response;
   } catch (error) {
-    console.log("Error fetching question: ", error);
-    return null;
+    return error;
   }
 };
 
@@ -22,11 +19,9 @@ export const registerUser = async (username, totalScore) => {
       username,
       totalScore,
     });
-    console.log(response);
-
     return response;
   } catch (error) {
-    console.log("Error registering. Please try again later! ", error);
+    console.log("Error registering. Please try again later! ");
     throw error;
   }
 };
@@ -36,6 +31,6 @@ export const getChallengerData = async (challenger) => {
     const response = await apiClient.get(`/users/getChallenger/${challenger}`);
     return response;
   } catch (error) {
-    console.log("Error in fetching challenger score");
+    return error;
   }
 };

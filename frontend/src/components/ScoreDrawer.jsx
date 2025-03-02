@@ -69,7 +69,7 @@ const ScoreDrawer = ({ isOpen }) => {
               variant="h6"
               sx={{
                 textAlign: "center",
-                background: "rgb(36, 224, 133)",
+                background: "rgb(18, 196, 110)",
                 borderRadius: "0 12px 0 0",
               }}
             >

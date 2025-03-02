@@ -49,6 +49,7 @@ const slice = createSlice({
         state.timeLeft -= 1;
       } else {
         state.showFeedback = true;
+        state.isCorrect = false;
         state.selectedAnswer = null;
         state.incorrectAnswers += 1;
       }

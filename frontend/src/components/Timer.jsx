@@ -12,11 +12,12 @@ const Timer = ({ gameClose }) => {
   useEffect(() => {
     if (showFeedback) return;
 
-    if (timeLeft > 0) {
-      const timer = setTimeout(() => dispatch(decrementTimer()), 1000);
-      return () => clearTimeout(timer);
-    }
-  }, [timeLeft, showFeedback, dispatch]);
+    const timer = setInterval(() => {
+      dispatch(decrementTimer());
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, [showFeedback, dispatch]);
   return (
     <>
       <LinearProgress
